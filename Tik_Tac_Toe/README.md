@@ -10,6 +10,10 @@ This is a simple Tic Tac Toe game built using Python and Tkinter. The game allow
 - Announces the winner or if the game is a draw
 - Option to play again without restarting the application
 
+## GUI Screenshot
+
+![GUI Screenshot](https://github.com/Pratik-Borikar/Python-Projects/assets/116170309/e614d277-eb35-4ff6-bcd1-eabb2f7a922c)
+
 ## How to Play
 
 1. The game starts with Player X's turn.
@@ -23,4 +27,4 @@ This is a simple Tic Tac Toe game built using Python and Tkinter. The game allow
 Simply download the tic_tac_toe.py file and firstly install the libraries, then run the code.
 
 ### Note:
-If you want you can resize the GUI frames as per your choice.
+If you want, you can resize the GUI frames as per your choice.
